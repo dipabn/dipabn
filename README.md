@@ -5,5 +5,6 @@
 - 📫 Reach me at dipabn1@gmail.com 
 - Kaggle : https://www.kaggle.com/dipannitab
 - LinkedIn : https://www.linkedin.com/in/dipannitabn/
+- Twitter : https://twitter.com/hellodipannita
 
 
