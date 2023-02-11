@@ -2,7 +2,7 @@
 - 👀 I’m interested in building fraud detection applications and analytical solutions in Data Science and Machine Learning using Python in banking/financial industry.
 - 🌱 I’m currently learning Python and Tableau.
 - 💞️ I’m looking to work on more projects using SAS, Python and Tableau.
-- 📫 Reach me at dipabn1@gmail.com 
+- 📫 Please feel free to reach me at dipannitb.work@gmail.com 
 - Kaggle : https://www.kaggle.com/dipannitab
 - LinkedIn : https://www.linkedin.com/in/dipannitabn/
 - Twitter : https://twitter.com/hellodipannita
