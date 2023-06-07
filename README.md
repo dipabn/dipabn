@@ -4,7 +4,5 @@
 - 💞️ I’m looking to work on more projects using SAS, Python and Tableau.
 - 📫 Please feel free to reach me at dipannitab.work@gmail.com 
 - Kaggle : https://www.kaggle.com/dipannitab
-- LinkedIn : https://www.linkedin.com/in/dipannitabn/
-- Twitter : https://twitter.com/hellodipannita
 
 
